@@ -1,11 +1,11 @@
 module.exports = {
-  "title": "Web Starter",
-  "description": "Minimal boilerplate for new projects built with Eleventy, Tailwind, PurgeCSS and PostCSS",
-  "url": "https://webstarter.chriscollins.me",
-  "author": "Chris Collins",
-  "meta_data": {
-    "twitter": "@scottishstoater",
-    "default_social_image": "/static/default_social_image.jpg"
+  title: 'Aydin Hepsaydir',
+  description: 'My portfolio O__o',
+  url: 'https://aydin.design',
+  author: 'Aydin Hepsaydir',
+  meta_data: {
+    twitter: '@aydinhepsaydir',
+    default_social_image: '/static/default_social_image.jpg',
   },
-  "env": process.env.ELEVENTY_ENV === 'production'
-}
+  env: process.env.ELEVENTY_ENV === 'production',
+};
